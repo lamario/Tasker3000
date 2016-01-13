@@ -1,0 +1,3 @@
+2
+001|Zavolat|3
+002|Nakupit|3

@@ -1,0 +1,3 @@
+2
+001|Nalozit umyvacku|3
+002|Povysavat|3
