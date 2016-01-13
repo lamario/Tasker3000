@@ -22,7 +22,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="module2.py">
+    <Compile Include="taskerDATA.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="taskerUI.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="tasker3000.py" />
