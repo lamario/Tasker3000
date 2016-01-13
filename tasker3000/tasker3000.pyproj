@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f675529a-47fb-462c-9141-6579db56cc91</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>tasker3000.py</StartupFile>
+    <StartupFile>tasker3000main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,13 +22,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="taskerDATA.py">
+    <Compile Include="tasker3000DATA.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="taskerUI.py">
+    <Compile Include="tasker3000UI.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="tasker3000.py" />
+    <Compile Include="tasker3000main.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
